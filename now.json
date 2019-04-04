@@ -8,7 +8,7 @@
 			"distDir": "build"
 		}
 	}, {
-		"src": "*.go",
+		"src": "/api/*.go",
 		"use": "@now/go"
 	}],
 	"routes": [{
